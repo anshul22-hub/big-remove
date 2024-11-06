@@ -18,7 +18,7 @@ const clerkWebhooks = async (req,res) => {
         })
         const {data , type} = req.body
 
-        switch (key) {
+        switch (type) {
             case "user.created": {
 
                 const userData ={
@@ -58,8 +58,6 @@ const clerkWebhooks = async (req,res) => {
             default:
                 break;
         }
-
-
     } catch (error) {
         console.log(error.message)
         res.Json({success:false,message:error.message})
