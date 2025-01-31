@@ -87,6 +87,6 @@ This project is **open-source** and available under the **MIT License**.
 
 📌 **Contributions are welcome!** Feel free to submit issues and pull requests.  
 
-📩 **Contact:** [Your Email or Socials]  
+📩 **Contact:** [____].  
 
 ---
