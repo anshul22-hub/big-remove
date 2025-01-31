@@ -12,6 +12,7 @@ This project is a **SaaS-based background removal application** that enables use
 - **Authentication:** Clerk  
 - **AI Integration:** Advanced AI-powered background removal  
 - **Payment Gateway:** Integrated for premium features  
+- **Deployment:** **Vercel** for frontend hosting  
 
 ---
 
@@ -23,6 +24,7 @@ This project is a **SaaS-based background removal application** that enables use
 ✅ **📱 Responsive Design** – Built a **fully responsive** UI using **Tailwind CSS** for smooth cross-device experience.  
 ✅ **🖥️ Backend API** – Developed robust **APIs in Node.js & Express.js** for image processing, authentication, and payments.  
 ✅ **🧠 AI-Powered Background Removal** – Leveraged **AI technology** for high-accuracy background removal.  
+✅ **🚀 Deployed on Vercel** – Frontend is **live on Vercel** for seamless performance and scalability.  
 
 ---
 
@@ -66,6 +68,13 @@ This project is a **SaaS-based background removal application** that enables use
 
 ---
 
+## **🌍 Deployment**  
+🔗 **Live Demo:** [https://big-remove.vercel.app/].  
+
+🚀 The frontend of this project is **deployed on Vercel** for a fast, scalable, and secure experience.  
+
+---
+
 ## **💡 Upcoming Features**  
 🚧 Improving AI accuracy & performance  
 🚀 Adding batch image processing  
@@ -78,11 +87,6 @@ This project is **open-source** and available under the **MIT License**.
 
 📌 **Contributions are welcome!** Feel free to submit issues and pull requests.  
 
-🔗 **Live Demo:** [https://big-remove.vercel.app/]  
-
 📩 **Contact:** [Your Email or Socials]  
 
 ---
-
-
-This README is structured professionally for GitHub. Would you like me to add **badges**, **screenshots**, or **contribution guidelines**? 🚀
